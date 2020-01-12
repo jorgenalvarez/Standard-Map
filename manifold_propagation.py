@@ -43,4 +43,7 @@ for xi in x:
 		xlist = sm_propagation(state, k)
 # ---------- Plot trajectory
 		plt.scatter(xlist[:,0], xlist[:,1], s=1)
+plt.title('Standard map (mu = 0.5)')
+plt.xlabel('x')
+plt.ylabel('y')
 plt.show()
