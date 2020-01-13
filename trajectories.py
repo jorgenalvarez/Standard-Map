@@ -3,7 +3,7 @@ import numpy as np
 from matplotlib import pyplot as plt
 
 # ---------- Import C library
-clib = np.ctypeslib.load_library('clib.so', '/home/jorge/ownCloud/PhD/Chaos/Standard Map/C Library')
+clib = np.ctypeslib.load_library('clib.so', '/home/jorge/ownCloud/PhD/Chaos/Standard Map/Standard-Map/C Library')
 
 # ---------- Call C functions
 def sm_iteration (x):
