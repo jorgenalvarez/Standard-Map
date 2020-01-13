@@ -44,7 +44,7 @@ for xi in x:
 # ---------- Plot trajectory
 		plt.scatter(statelist[:,0], statelist[:,1], s=1)
 
-plt.title('Standard map (mu = 0.5)')
+plt.title(r'Standard map ($\mu$ = 0.5)')
 plt.xlabel('x')
 plt.ylabel('y')
 plt.show()
