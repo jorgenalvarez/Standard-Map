@@ -1,4 +1,4 @@
-# Standard-Map
+# Standard Map
 
 It reproduces the results published in: Spoto, F., Milani, A.: Shadowing Lemma and chaotic orbit determination. Celest. Mech. Dyn. Astron. 124,
 295–309 (2016)
