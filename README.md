@@ -3,7 +3,7 @@
 It reproduces the results published in: Spoto, F., Milani, A.: Shadowing Lemma and chaotic orbit determination. Celest. Mech. Dyn. Astron. 124,
 295–309 (2016)
 
-![alt text](https://github.com/jorgenalvarez/Standard-Map/blob/master/trajectories.png)
+![alt text](https://github.com/jorgenalvarez/Standard-Map/blob/master/Figures/trajectories.png)
 
 # Python's Ctypes foreign function library
 It allows Python to call functions written in C. 
