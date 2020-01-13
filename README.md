@@ -8,4 +8,4 @@ It reproduces the results published in: Spoto, F., Milani, A.: Shadowing Lemma a
 # Python's Ctypes foreign function library
 It allows Python to call functions written in C. 
 C code must be previously compiled into a .so library.
-The route of the library directory must be changed to the local directory of the user in line 6 of trajectories.py
+The route of the library directory must be changed to the local directory of the user in line 6 of propagation.py
