@@ -29,7 +29,7 @@ def sm_propagation (x, k):
         return xlist
 
 # ---------- Standard map observations function  
-def sm_observations (x, k, sigma):
+def sm_propagation_noisy (x, k, sigma):
         xlist = x
         for i in range(k):
                 x = sm_iteration(x)
